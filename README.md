@@ -10,7 +10,7 @@ The purpose of this PyBer_Analysis was to use csv files of city and ride data to
 These visualizations were created in order to provide recommendations for improving Pyber access and affordability. 
 
 ## Results
-![PyBer Summary](https://github.com/Nveatch/Pyber_Analysis/blob/main/Resources/PyBer_Summary.png)
+![PyBer Summary](https://github.com/Nveatch/Pyber_Analysis/blob/main/analysis/PyBer_summary.png)
 
 As shown in the above dataframe, there are a few trends I noticed between the city types:
 
@@ -21,7 +21,7 @@ As shown in the above dataframe, there are a few trends I noticed between the ci
 -Also as development decreases, the average fare per driver increases. This could be a by-product of the average fare per ride being higher, or it could be that because rural areas have significantly less drivers than urban areas, and thus each driver accumulates a larger portion of the total fares.  
 
 
-![Total Fares by City Type](https://github.com/Nveatch/Pyber_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+![Total Fares by City Type](https://github.com/Nveatch/Pyber_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 The line graph shows the same trend for total fares as the dataframe does: as development increases, the total fares dollars increases as well, with urban having the most while rural has the least. The graph also shows that regardless of city type, the total fares is consistent within its own city type(roughly the same over the four month period), and also somewhat proportionately with each other, with similar flat areas and a peak towards the end of february. 
 
